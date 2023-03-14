@@ -23,8 +23,8 @@ jobs:
         node-version: ${{ matrix.node-version }}
 
     - name: Install Dependencies
-        working-directory: packages/job-quote-ui
-        run: npm install
-      - name: Build
-        working-directory: packages/job-quote-ui
-        run: npm run build
+      working-directory: packages/job-quote-ui
+      run: npm install
+    - name: Build
+      working-directory: packages/job-quote-ui
+      run: npm run build
