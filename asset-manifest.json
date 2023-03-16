@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/job-quote/static/css/main.073c9b0a.css",
-    "main.js": "/job-quote/static/js/main.de550b2f.js",
+    "main.js": "/job-quote/static/js/main.7823859d.js",
     "static/js/787.f2d148c5.chunk.js": "/job-quote/static/js/787.f2d148c5.chunk.js",
     "static/media/construction.webp": "/job-quote/static/media/construction.49d10912408266124ccf.webp",
     "index.html": "/job-quote/index.html",
     "main.073c9b0a.css.map": "/job-quote/static/css/main.073c9b0a.css.map",
-    "main.de550b2f.js.map": "/job-quote/static/js/main.de550b2f.js.map",
+    "main.7823859d.js.map": "/job-quote/static/js/main.7823859d.js.map",
     "787.f2d148c5.chunk.js.map": "/job-quote/static/js/787.f2d148c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.de550b2f.js"
+    "static/js/main.7823859d.js"
   ]
 }
